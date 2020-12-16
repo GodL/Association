@@ -1,3 +1,4 @@
 # Association
 
-A description of this package.
+Easier to use oc's Runtime association API
+
